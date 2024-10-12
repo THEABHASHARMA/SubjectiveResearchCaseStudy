@@ -5,4 +5,5 @@ Subjective case studies delve into the detailed examination of the given topic, 
 
 ### The topic of the study:
 
-online versus offline business spheres
+> online versus offline business spheres
+> subscription-based model
